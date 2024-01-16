@@ -1,0 +1,13 @@
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\bin\Debug\Services.dll
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\bin\Debug\Services.pdb
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\bin\Debug\DAO.dll
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\bin\Debug\Entities.dll
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\bin\Debug\System.Data.SQLite.dll
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\bin\Debug\DAO.pdb
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\bin\Debug\Entities.pdb
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\bin\Debug\System.Data.SQLite.xml
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\obj\Debug\Services.csproj.CopyComplete
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\obj\Debug\Services.dll
+D:\POS\pos-retail-admin-window\pos-retail-admin-window\Services\obj\Debug\Services.pdb
